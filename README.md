@@ -6,7 +6,7 @@ Costa Rica Legislative Assembly is a unicameral legislative
 
 Description of the data
 
-This project analyzes the "Database of Assistance to the legislative representative". Which describes the details of the attendance of the representatives from the legislative assembly. This dataset is available within the open data portal of the legislative assembly, link: "http://www.as Assembly.go.cr/opendata/SitePages/AsistenciaDiputados.aspx". This set covers the period from February 2018 to the present and is updated on a monthly basis. The file is available in CVS format, with an open license: "CC BY 4.0". the data were recovered: 20/08/2020.
+This project analyzes the "Database of Assistance to the legislative representative". Which describes the details of the attendance of the representatives from the legislative assembly. This dataset is available within the open data portal of the legislative assembly, link: "http://www.asamblea.go.cr/opendata/SitePages/AsistenciaDiputados.aspx". This set covers the period from February 2018 to the present and is updated on a monthly basis. The file is available in CVS format, with an open license: "CC BY 4.0". the data were recovered: 20/08/2020.
   
 ____________________
 Diccionario de datos
