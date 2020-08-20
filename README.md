@@ -4,15 +4,9 @@ In Costa Rica, the balance of power is a division into three branches: a legisla
 
 Costa Rica Legislative Assembly is a unicameral legislative 
 
+Description of the data
 
-
-1. Introducción (10 reglones)
--Contexto
--Pregunta/Objetivo
--Importancia
-
-2. Descripción de los datos
-
-Este proyecto analiza la "Base de datos de Asistencia a los órganos legislativo de diputados y diputadas". El cual describe el detalle la asistencia de los diputados y diputadas proveniente del organo legislativo. Dicho conjunto de datos se encuentra disponible dentro del portal de datos abiertos de la asamblea legislativa, link: "http://www.asamblea.go.cr/opendata/SitePages/AsistenciaDiputados.aspx". Este conjunto cubre el periodo comprendido entre febrero del 2018 hasta el presente y es actualizado de forma mensual. El archivo esta disponible en formato CVS, con una licencia abierta: "CC BY 4.0". los datos fueron recuperandos: XXXX-XXXXX.    
+This project analyzes the "Database of Assistance to the legislative representative". Which describes the details of the attendance of the representatives from the legislative assembly. This dataset is available within the open data portal of the legislative assembly, link: "http://www.as Assembly.go.cr/opendata/SitePages/AsistenciaDiputados.aspx". This set covers the period from February 2018 to the present and is updated on a monthly basis. The file is available in CVS format, with an open license: "CC BY 4.0". the data were recovered: 20/08/2020.
+  
 ____________________
 Diccionario de datos
